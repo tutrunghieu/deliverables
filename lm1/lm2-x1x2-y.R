@@ -21,10 +21,10 @@ printCoef <- function(md, N) {
 
 trainTest <- function(g, tt) {
  df <- g$bigger; 
- md <- lm(Y ~ X, df);
+ md <- lm(Y ~ X1 + X2, df);
 
  cat('\n---- Model params ------\n');
- printCoef(md, c("b", "a"));
+ printCoef(md, c("c", "a", "b"));
  
  cat('\n---- Model errors -------\n');
  e1 <- abs(predict(md, df) - df$Y);
@@ -35,10 +35,14 @@ trainTest <- function(g, tt) {
  cat('testing --- ', nrow(df), sum(df$Y), '-----', max(e1), '\n');
 }
 
+affine <- function(n, a, b) {
+  X <- runif(n);
+  return( a*X + b*(1-X) );
+}
 
 main <- function() {
- df <- data.frame( X=seq(-50, 50, 0.1) );
- df$Y <- 123*df$X + 456 + runif(nrow(df));
+ df <- data.frame( X1=affine(1000, -50, 50), X2=affine(1000, -3, 7) );
+ df$Y <- 123*df$X1 + 456*df$X2 + 789 + runif(nrow(df));
 
  cat('\n---- Dataset -------\n');
  print(head(df), row.names=F);
