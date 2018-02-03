@@ -1,0 +1,7 @@
+You need to install java 1.8 first
+http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html
+
+And click to run
++ double-click on download-and-print.bat to see the result on screen
++ double-click on download-and-save-csv.bat to see the result inside CSV file
+
