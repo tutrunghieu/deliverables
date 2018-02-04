@@ -12,30 +12,24 @@ makeCenters <- function() {
 }
 
 makeObjects <- function(src) {
+ wf <- paste0(Sys.getenv("USERPROFILE"),"/Desktop/data-AVN-feb04");
+ if(! file.exists(wf) ) dir.create(wf);
 
-wf <- paste0(Sys.getenv("USERPROFILE"),"/Desktop/data");
-if(! file.exists(wf) ) dir.create(wf);
-
-for(k in 1:1000) {
+ for(k in 1:1000) {
   rk <- sample(1:3, 1);
   Xk <- src[[rk]]$X;
   Yk <- src[[rk]]$Y;
   Lk <- sample(100:300, 1);
   Wk <- sample(names(Xk), Lk, prob=Xk, replace=TRUE);
-  cat(Wk, file=paste0(wf, '/file', k, '.txt') );
-
-#  res[[k]] <- list(X=Xk, Y=Yk, W=Wk);
+  cat(Wk, file=paste0(wf, '/file', k, '-', Yk, '.txt') );
 }
 
-
-return(res);
+ return(0);
 }
 
 main <- function() {
- df <- makeCenters();
- l1 <- makeObjects(df);
- print(l1);
-
+ cf <- makeCenters();
+ makeObjects(cf);
  cat('\n----THE END-------\n')
 }
 
