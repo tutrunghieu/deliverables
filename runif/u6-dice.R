@@ -1,10 +1,13 @@
 rm(list=ls());
 
-rcoin <- function(n, p) 
+rdice <- function(n) 
 {
-  X <- ifelse(runif(n)<p, "head", "tail");
+  X <- runif(n);
+  X <- ceiling(6*X);
   return(X);
 }
 
-X <- rcoin(1000, 0.1);
-table(X);
+X <- rdice(90000);
+X <- table(X);
+print(X/sum(X));
+
