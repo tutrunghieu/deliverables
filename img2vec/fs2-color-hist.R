@@ -34,14 +34,15 @@ X <- list.files(path='.', pattern=".jpg$");
 #comment the line below if you want to see the full dataset
 X <- head(X, 10);
 
-df <- head( data.frame(avgR=1, avgG=2, avgB=3), 0);
+df <- NULL;
 for(k in 1:length(X)) {
- vk <- makeVector3(X[k]);
- df[k, 1:3] <- vk;
+ vk <- makeVector4096(X[k]);
+ df <- rbind(df, vk);
 }
+row.names(df) <- X;
 
-df <- cbind(df, FileName=X);
-print(df);
+df <- cbind(data.frame(df));
+print(df[, c("X1", "X2", "X3", "X4095", "X4096")]);
 } 
 
 cat(rep('\n', 10)); main();

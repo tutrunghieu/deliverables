@@ -8,7 +8,7 @@ library(jpeg);
 setwd(paste0(Sys.getenv("USERPROFILE"), "/Desktop/data-MITSE-2001"));
 
 makeVector3 <- function(imf) {
-  cat('--- processing', imf, '----\n'); 
+#  cat('--- processing', imf, '----\n'); 
   ik <- readJPEG(imf);
 
   rk <- mean(ik[, , 1]);
@@ -18,6 +18,7 @@ makeVector3 <- function(imf) {
   return(c(rk, gk, bk));
 }
 
+main <- function() {
 X <- list.files(path='.', pattern=".jpg$");
 
 #comment the line below if you want to see the full dataset
@@ -28,8 +29,9 @@ for(k in 1:length(X)) {
  vk <- makeVector3(X[k]);
  df[k, 1:3] <- vk;
 }
-
-df <- cbind(df, FileName=X);
+row.names(df) <- X;
 print(df);
+}
 
+cat(rep('\n', 10)); main();
 
