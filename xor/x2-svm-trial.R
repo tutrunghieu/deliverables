@@ -21,14 +21,20 @@ df <- makeData();
 x <- df[, c("X", "Y")];
 y <- df[, "T"];
 
+cat('----- model params -----\n');
 md <- svm(x, y, type='C', kernel='polynomial', degree=2);
-y1 <- predict(md, x); 
+print(md);
 
-sf <- data.frame(y=y, y1=y1, e1=abs(y != y1) );
+cat('----- model error -----\n');
+y1 <- predict(md, x); 
+e1 <- (y != y1);
+
+sf <- data.frame(y=y, y1=y1, e1=abs(e1) );
 print(head(sf));
 table(sf$y, sf$y1);
 
-df <- df[sf$e1==1, ];
+cat('----- error analysis -----\n');
+df <- df[e1, ];
 plot(df$X, df$Y, col=df$T, xlim=c(0, 320), ylim=c(0, 200));
 } 
 

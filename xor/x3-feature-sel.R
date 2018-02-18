@@ -17,12 +17,15 @@ return(df);
 
 main <- function() {
 df <- makeData();
+df$X1 <- df$X - mean(df$X);
+df$Y1 <- df$Y - mean(df$Y);
+df$XY <- df$X1 * df$Y1;
 
-x <- df[, c("X", "Y")];
+x <- df[, c("X", "Y", "XY")];
 y <- df[, "T"];
 
 cat('----- model params -----\n');
-md <- svm(x, y, type='C', kernel='polynomial', degree=2);
+md <- svm(x, y, type='C', kernel='polynomial', degree=1);
 print(md);
 
 cat('----- model error -----\n');
