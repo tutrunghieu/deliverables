@@ -19,13 +19,17 @@ makeVector3 <- function(imf) {
 }
 
 X <- list.files(path='.', pattern=".jpg$");
-df <- data.frame(FileName=X);
 
-for(k in 1:nrow(df)) {
- vk <- makeVector3(df$FileName[k]);
-# df$avgR[k] <- vk[1]; 
-# df$avgG[k] <- vk[2]; 
-# df$avgB[k] <- vk[3]; 
+#comment the line below if you want to see the full dataset
+X <- head(X, 10);
+
+df <- head( data.frame(avgR=1, avgG=2, avgB=3), 0);
+for(k in 1:length(X)) {
+ vk <- makeVector3(X[k]);
+ df[k, 1:3] <- vk;
 }
+
+df <- cbind(df, FileName=X);
+print(df);
 
 
