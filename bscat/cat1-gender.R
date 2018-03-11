@@ -18,7 +18,7 @@ P <- sample(nX, prob=pX, size=n, replace=TRUE);
 
 #----- combining
 df <- data.frame(Gender=G, Role=R, Profession=P);
-print(head(df));
+print(head(df), row.names=F);
 
 #----- testing
 print( table(df$Gender) );
@@ -26,4 +26,4 @@ print( table(df$Role) );
 print( table(df$Profession) );
 }
 
-main();
+cat(rep('\n', 10)); main();
