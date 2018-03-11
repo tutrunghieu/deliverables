@@ -13,9 +13,12 @@ G1 <- rgamma(n, shape=0.2);
 G2 <- rgamma(n, shape=0.4);
 A2 <- round( (G1 * 18 + G2 * 80) / (G1 + G2) );
 
+#----- age via dirichlet
+A3 <- rnorm(n, mean=35, sd=3);
+
 
 #----- combining
-df <- data.frame(Age.Range=A1, Age.Dirichlet=A2);
+df <- data.frame(Age.Range=A1, Age.Dirichlet=A2, Age.Around=A3);
 print(head(df), row.names=F);
 
 #----- testing
@@ -24,6 +27,8 @@ hist(df$Age.Range, breaks=50);
 dev.new();
 hist(df$Age.Dirichlet, breaks=50);
 
+dev.new();
+hist(df$Age.Around, breaks=50);
 
 }
 
