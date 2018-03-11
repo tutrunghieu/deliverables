@@ -5,7 +5,10 @@ main <- function() {
 
 n <- 1000;
 U1 <- runif(n);
-X1 <- ifelse(U1 < 0.25, "Apple", ifelse(U1 < 0.5, "Berry", ifelse(U1 < 0.75, "Cherry", "Orange")));
+X1 <- ifelse(U1 < 0.25, "Apple", 
+      ifelse(U1 < 0.5, "Berry", 
+      ifelse(U1 < 0.75, "Cherry", 
+      "Orange")));
 
 U1 <- runif(n);
 X2 <- ifelse(U1 < 0.25, "Apple", ifelse(U1 < 0.5, "Berry", ifelse(U1 < 0.75, "Cherry", "Orange")));
