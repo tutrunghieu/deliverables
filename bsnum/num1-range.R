@@ -18,13 +18,13 @@ A3 <- round( rnorm(n, mean=35, sd=3) );
 
 #----- age via mixture of gaussian
 X1 <-  rnorm(n, mean=5, sd=2);
-X2 <-  rnorm(n, mean=60, sd=5);
-sel <- ifelse(runif()<0.7, 1, 0);
-A4 <- X1*sel + X2*(1-sel);
+X2 <-  rnorm(n, mean=60, sd=2);
+sel <- ifelse(runif(n)<0.7, 1, 0);
+A4 <- round( X1*sel + X2*(1-sel) );
 
 
 #----- combining
-df <- data.frame(Age.Range=A1, Age.Dir=A2, Age.Around=A3);
+df <- data.frame(Age.Range=A1, Age.Dir=A2, Age.Around=A3, Age.Group=A4);
 print(head(df), row.names=F);
 
 #----- testing
@@ -35,6 +35,9 @@ hist(df$Age.Dir, breaks=50);
 
 dev.new();
 hist(df$Age.Around, breaks=50);
+
+dev.new();
+hist(df$Age.Group, breaks=50);
 
 }
 
