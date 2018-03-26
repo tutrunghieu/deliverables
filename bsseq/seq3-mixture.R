@@ -39,6 +39,7 @@ makeDataTable <- function(n, TM) {
 for(k in 1:n) {
   Zk <- rgamma(length(TM), shape=0.05);
   Zk <- Zk / sum(Zk);
+
   Xk <- sampleWords(L[k], Zk, TM);
 
   Z[k] <- paste(Zk, collapse=' ');
