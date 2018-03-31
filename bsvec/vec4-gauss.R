@@ -1,11 +1,12 @@
-
-df <- NULL;
+rm(list=ls());
 
 M <- c(0, 0);
 V <- rbind(
-  c(2, -1),
-  c(-1, 5)
+  c(5, -1.5),
+  c(0, 1)
 );
+
+df <- NULL;
 
 for(k in 1:5000) {
  vk <- M + V %*% rnorm(2);
