@@ -1,0 +1,62 @@
+{
+   "destination_addresses" : [ "1 Raffles Quay, Singapore 018960", "Jurong East, Singapore" ],
+   "origin_addresses" : [
+      "Bishan, Singapore",
+      "Airport Blvd, Changi Airport Singapore (SIN), Singapore"
+   ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "13.0 km",
+                  "value" : 12981
+               },
+               "duration" : {
+                  "text" : "18 mins",
+                  "value" : 1086
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "17.3 km",
+                  "value" : 17322
+               },
+               "duration" : {
+                  "text" : "20 mins",
+                  "value" : 1224
+               },
+               "status" : "OK"
+            }
+         ]
+      },
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "19.8 km",
+                  "value" : 19820
+               },
+               "duration" : {
+                  "text" : "19 mins",
+                  "value" : 1151
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "35.5 km",
+                  "value" : 35517
+               },
+               "duration" : {
+                  "text" : "33 mins",
+                  "value" : 1961
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

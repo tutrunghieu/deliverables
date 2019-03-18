@@ -1,0 +1,727 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CqQCHQEAAM01NlKNCk0S2K33VcUVKddr8ecp4Ry3GyJaK-ROfaNsJNiAMTaK-HifioYVBcaO-7qwnnKwT4-aLWlZ8KtHZ8v54GCJz6chJPLAAN4Kvt8jHQzYZPMgW-Bo5A_gBP3phzULJjd1sS5COZtLURRTgRfaCCEwiwy_oLf6HFXoN_aIFJKwc2K3NT4mH2gplBdOb4g32RfuZHUkR78u1v-qqx5ixoNMFhhT2WDzv3ont2aoOS4GaFiHkLNQOKYi3F5lAFuWRvMXDNXUzOHo0oAq6IEdFhEiScr61RevTAloole2-h4EoOE4M59cQAD9Hjgpu9Wl6mricNrh-cxrIGwlYL0GArEuiYQQlblBHLueDosg7AN_eV3lc8wReerFt0y3NBIQ5rZpoJgPbtQfWvV0W0E6zhoUPaoO1SQ13VvLNJvSIfDOvdkCAxY",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 21.2065457,
+               "lng" : 105.4567287
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.20799157989272,
+                  "lng" : 105.4580568298927
+               },
+               "southwest" : {
+                  "lat" : 21.20529192010727,
+                  "lng" : 105.4553571701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "f7df980a8c7e8007cab2bfc8476ceab32e72b849",
+         "name" : "Minh Chau Junior High School",
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102768382234964819118/photos\"\u003eHong kim\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAr5D8Q44p37nRXPEUV2dpTMGF6ycsKKQCTzaPNTW_bHSZLevG3trUf6ndaqSjN9pRpjbvGnZCz90k7ljhr_B6Jo19crNu6ayWQPUzQaIWQKRJwuoG23bUT3jGFvSyr0-iEhChZJAju5rQyr29l_DiWuXdGhTIWn5CIhNtCbpAfKgJAteUi9CKuQ",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJ_____170NDERoB-NpK78SYs",
+         "plus_code" : {
+            "compound_code" : "6F44+JM Minh Châu, Ba Vì, Hanoi, Vietnam",
+            "global_code" : "7PH76F44+JM"
+         },
+         "rating" : 5,
+         "reference" : "ChIJ_____170NDERoB-NpK78SYs",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Minh Chõu, Ba Vì, Hanoi, Vietnam"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 21.2012678,
+               "lng" : 105.4082273
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.20275537989272,
+                  "lng" : 105.4095590798927
+               },
+               "southwest" : {
+                  "lat" : 21.20005572010728,
+                  "lng" : 105.4068594201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "487932cf8d0be3c2da7d67b184e33d7374444f08",
+         "name" : "Vat Lai Nursery School",
+         "photos" : [
+            {
+               "height" : 1836,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112719866372234161682/photos\"\u003edoan long\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAALTKZ6e6lRVRDBLIDf0GuyA1KEh_LFHYhSZV1Qm0HThxZaRQzhopvNN3Suc4dBKAGMj0pS0jmHC9NNX87WvntfRa4gXCecoMAxpv3NdKC5fUvVnVE6j-IJOpPGu3yc0MpEhCqgTVMrKvRUJwUCNs2bt-zGhSjnMxp4O0XsQ_z1jA79_u6sWjjow",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJ_6fiSUaLNDER7exOTNA-uu8",
+         "plus_code" : {
+            "compound_code" : "6C25+G7 Vật Lại, Ba Vì, Hanoi, Vietnam",
+            "global_code" : "7PH76C25+G7"
+         },
+         "rating" : 3.9,
+         "reference" : "ChIJ_6fiSUaLNDER7exOTNA-uu8",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 7,
+         "vicinity" : "Vật Lại, Ba Vì, Hanoi, Vietnam"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 21.1091503,
+               "lng" : 105.5542241
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.11039977989272,
+                  "lng" : 105.5558360798927
+               },
+               "southwest" : {
+                  "lat" : 21.10770012010728,
+                  "lng" : 105.5531364201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "4ae25f440a4c2e98d8bbcacb4172bbd9162913ca",
+         "name" : "Phuc Hoa Junior High School",
+         "place_id" : "ChIJ2bkjlGhYNDERXWSf274_2FU",
+         "plus_code" : {
+            "compound_code" : "4H53+MM Phúc Hòa, Phúc Thọ, Hanoi, Vietnam",
+            "global_code" : "7PH74H53+MM"
+         },
+         "rating" : 5,
+         "reference" : "ChIJ2bkjlGhYNDERXWSf274_2FU",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 3,
+         "vicinity" : "Xã Phúc Hòa, Huyện Phúc Thọ"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 21.3321806,
+               "lng" : 105.3778446
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.33341412989272,
+                  "lng" : 105.3790273798927
+               },
+               "southwest" : {
+                  "lat" : 21.33071447010728,
+                  "lng" : 105.3763277201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "01ab3b4463063bff6f48c9b0d04d0e268120734c",
+         "name" : "Dinh Tien Hoang Street Elementary School",
+         "photos" : [
+            {
+               "height" : 675,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109090198445981437812/photos\"\u003eTHUY CHI PHAN\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAUhC3FVAGw8kG3RqAhWfldgn72D5U2rWbWN0Ull7zYaiCw8i8MBdL9sChYioHF_K7Q182ac2OmxQbgfqTLiAChgR93GuKz5hWgwQO0v2OL0ebDDz0wNKvheHleUy90kMLEhBP6OqoFk3O8CmwYLH0tSLvGhTbe8d8fTr-VDnxt21w7BGfJPkcMA",
+               "width" : 1200
+            }
+         ],
+         "place_id" : "ChIJr5StHevyNDER0cCYLlBOo5U",
+         "plus_code" : {
+            "compound_code" : "89JH+V4 Viet Tri, Phu Tho Province, Vietnam",
+            "global_code" : "7PH789JH+V4"
+         },
+         "rating" : 3.8,
+         "reference" : "ChIJr5StHevyNDER0cCYLlBOo5U",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 38,
+         "vicinity" : "Nông Trang, Thành phố Việt Trì, Phu Tho Province, Vietnam"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 21.2329629,
+               "lng" : 105.4238093
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.23441677989272,
+                  "lng" : 105.4251612298927
+               },
+               "southwest" : {
+                  "lat" : 21.23171712010727,
+                  "lng" : 105.4224615701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "2865c2eff164d40a3008aa6033853afdabf6d119",
+         "name" : "Phu Chau Junior High School",
+         "photos" : [
+            {
+               "height" : 1840,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113484061658060054872/photos\"\u003eSuPi\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAroQsHmcI6qCHoUCV5lnjqMt0WTVtA60-LhaQ76CXQ1b9daN0chh9XvsPf1NEhudilLjyDz6JtdmCl9Hwj4qVMkpW3iSP2zqPnDjQRttNj9MIN8Vwqi98bAMuf7-j8QVREhA3qmMwzXSs2XrEN09NJy3pGhRuJTgfbyhESpdjt1sH13z65OE0mw",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJ-eHF-aL0NDER5hP_iAhapX4",
+         "plus_code" : {
+            "compound_code" : "6CMF+5G Phú Châu, Ba Vì, Hanoi, Vietnam",
+            "global_code" : "7PH76CMF+5G"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJ-eHF-aL0NDER5hP_iAhapX4",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 6,
+         "vicinity" : "Xã Phú Châu, Huyện Ba Vì"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 21.1510422,
+               "lng" : 105.5877271
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.15236442989272,
+                  "lng" : 105.5890179798927
+               },
+               "southwest" : {
+                  "lat" : 21.14966477010728,
+                  "lng" : 105.5863183201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "9d04fc3a3df9249772b6a0c44ec67463b614b519",
+         "name" : "Vân Phúc Elementary School",
+         "place_id" : "ChIJvaRBm4z3NDERqZanuO_YNU0",
+         "plus_code" : {
+            "compound_code" : "5H2Q+C3 Vân Phúc, Phúc Thọ, Hanoi, Vietnam",
+            "global_code" : "7PH75H2Q+C3"
+         },
+         "rating" : 3,
+         "reference" : "ChIJvaRBm4z3NDERqZanuO_YNU0",
+         "scope" : "GOOGLE",
+         "types" : [ "point_of_interest", "school", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Xã Vân Phúc, Huyện Phúc Thọ"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 21.251668,
+               "lng" : 105.4212569
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.25293612989272,
+                  "lng" : 105.4224677298927
+               },
+               "southwest" : {
+                  "lat" : 21.25023647010728,
+                  "lng" : 105.4197680701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "737a7036eed54007935708a3a202b5d8ac9ce6b2",
+         "name" : "Phu Phuong Elementary School",
+         "place_id" : "ChIJAQAAAEXzNDEReSOmxo1Hxuw",
+         "plus_code" : {
+            "compound_code" : "7C2C+MG Phú Phương, Ba Vì, Hanoi, Vietnam",
+            "global_code" : "7PH77C2C+MG"
+         },
+         "rating" : 3.8,
+         "reference" : "ChIJAQAAAEXzNDEReSOmxo1Hxuw",
+         "scope" : "GOOGLE",
+         "types" : [ "point_of_interest", "school", "establishment" ],
+         "user_ratings_total" : 5,
+         "vicinity" : "Xã Phú Phương, Huyện Ba Vì"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 21.1253036,
+               "lng" : 105.3928521
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.12665402989272,
+                  "lng" : 105.3942174798927
+               },
+               "southwest" : {
+                  "lat" : 21.12395437010727,
+                  "lng" : 105.3915178201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "67e879ac11c11e42db5a67d628d8393505e16d84",
+         "name" : "Tan Linh Elementary School",
+         "place_id" : "ChIJ____vxNgNDERISm1lzzNrhQ",
+         "plus_code" : {
+            "compound_code" : "49GV+44 Tản Lĩnh, Ba Vì, Hanoi, Vietnam",
+            "global_code" : "7PH749GV+44"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJ____vxNgNDERISm1lzzNrhQ",
+         "scope" : "GOOGLE",
+         "types" : [ "point_of_interest", "school", "establishment" ],
+         "user_ratings_total" : 3,
+         "vicinity" : "Xã Tản Lĩnh, Huyện Ba Vì"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 21.1784973,
+               "lng" : 105.4324723
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.18003987989272,
+                  "lng" : 105.4339979798927
+               },
+               "southwest" : {
+                  "lat" : 21.17734022010728,
+                  "lng" : 105.4312983201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "7e391b1e3b5ce23351d51421ab6fe1a2a42bffca",
+         "name" : "Tien Phong Junior High School",
+         "place_id" : "ChIJ_6Om1R71NDERGWKFTGbqpBg",
+         "plus_code" : {
+            "compound_code" : "5CHJ+9X Tiên Phong, Ba Vì, Hanoi, Vietnam",
+            "global_code" : "7PH75CHJ+9X"
+         },
+         "rating" : 3.3,
+         "reference" : "ChIJ_6Om1R71NDERGWKFTGbqpBg",
+         "scope" : "GOOGLE",
+         "types" : [ "point_of_interest", "school", "establishment" ],
+         "user_ratings_total" : 4,
+         "vicinity" : "Tiền Phong, Ba Vì, Hanoi, Vietnam"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 21.1456186,
+               "lng" : 105.5522638
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.14707937989272,
+                  "lng" : 105.5536599798927
+               },
+               "southwest" : {
+                  "lat" : 21.14437972010727,
+                  "lng" : 105.5509603201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "6ba23ad454398bee7eebbad59ea4f3b9a11e472e",
+         "name" : "Cam Dinh Junior High School",
+         "place_id" : "ChIJG5wwSjP2NDERpZLttj-7478",
+         "plus_code" : {
+            "compound_code" : "4HW2+6W Cẩm Đình, Hanoi, Vietnam",
+            "global_code" : "7PH74HW2+6W"
+         },
+         "rating" : 3.5,
+         "reference" : "ChIJG5wwSjP2NDERpZLttj-7478",
+         "scope" : "GOOGLE",
+         "types" : [ "point_of_interest", "school", "establishment" ],
+         "user_ratings_total" : 2,
+         "vicinity" : "Xã Cẩm Đình, Huyện Phúc Thọ"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 21.2771906,
+               "lng" : 105.4559948
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.27860242989273,
+                  "lng" : 105.4573675298927
+               },
+               "southwest" : {
+                  "lat" : 21.27590277010728,
+                  "lng" : 105.4546678701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "3621bce484eeec8c0a09e6e4545319b6fb260c02",
+         "name" : "Bo Sao nursery school",
+         "place_id" : "ChIJI56xL1XyNDERDFS_i-sD0K4",
+         "plus_code" : {
+            "compound_code" : "7FG4+V9 Bồ Sao, Viet Tri, Vinh Phuc Province, Vietnam",
+            "global_code" : "7PH77FG4+V9"
+         },
+         "rating" : 3,
+         "reference" : "ChIJI56xL1XyNDERDFS_i-sD0K4",
+         "scope" : "GOOGLE",
+         "types" : [ "point_of_interest", "school", "establishment" ],
+         "user_ratings_total" : 3,
+         "vicinity" : "Bo Sao Commune, Vinh Tuong District"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 21.1828208,
+               "lng" : 105.4467727
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.18411412989272,
+                  "lng" : 105.4480472798927
+               },
+               "southwest" : {
+                  "lat" : 21.18141447010728,
+                  "lng" : 105.4453476201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "036f252621cba82c484c8feaad4b81317605023c",
+         "name" : "Dong Quang Nursery School",
+         "place_id" : "ChIJVY1fTQD1NDER2_DqcjawAac",
+         "plus_code" : {
+            "compound_code" : "5CMW+4P Đông Quang, Ba Vì, Hanoi, Vietnam",
+            "global_code" : "7PH75CMW+4P"
+         },
+         "rating" : 5,
+         "reference" : "ChIJVY1fTQD1NDER2_DqcjawAac",
+         "scope" : "GOOGLE",
+         "types" : [ "point_of_interest", "school", "establishment" ],
+         "user_ratings_total" : 2,
+         "vicinity" : "Xã Đông Quang, Huyện Ba Vì"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 21.0705988,
+               "lng" : 105.5581383
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.07185837989272,
+                  "lng" : 105.5595398298927
+               },
+               "southwest" : {
+                  "lat" : 21.06915872010728,
+                  "lng" : 105.5568401701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "11248ce16313c794d9512a74be5a36fecd3f57b1",
+         "name" : "Lai Thuong Junior High School",
+         "photos" : [
+            {
+               "height" : 1155,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107902773613241508902/photos\"\u003e- Những con đường chúng ta đi -\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAZG2ukL8FLSUB0uD4Oq1RjlgA0OMxO-sIZpE2uERTiIuc2wgxZDyjxfVv3OzV0zkzf6jf_TgIO6X9dOUIrNd-QpdSdYOnxzfwsJMa6qnjNxxglf3nhZfBMhWGnuzS_YyrEhDNYvPq9Nb4CcJ27NXcOmt6GhRKGcDsMTGQY2-L19aM6hygtkGicA",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJ0SpbLrBZNDERfChzurEqz8E",
+         "plus_code" : {
+            "compound_code" : "3HC5+67 Lai Khánh, Thạch Thất, Hanoi, Vietnam",
+            "global_code" : "7PH73HC5+67"
+         },
+         "rating" : 4,
+         "reference" : "ChIJ0SpbLrBZNDERfChzurEqz8E",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 9,
+         "vicinity" : "Thôn Lai Khánh, Xã Lại Thượng, Huyện Thạch Thất, Thành Phố Hà Nội"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 21.2257614,
+               "lng" : 105.5033569
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.22707782989272,
+                  "lng" : 105.5046888298927
+               },
+               "southwest" : {
+                  "lat" : 21.22437817010728,
+                  "lng" : 105.5019891701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "e29710ad75e77dfff2e3fb82c694993cd9d92886",
+         "name" : "Le Pan High School",
+         "photos" : [
+            {
+               "height" : 868,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116612117404158029642/photos\"\u003eNgoc Thuc Le\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA4PfZKsuQpEo0rVnsYP0f0qXUf_ZbrRBBdDQL5jcr0EvyqIHfvjzwdUcqPn3S3qtfvQlv6bVQUEWOHagQsO8LOV36N9l7Ve4bz1KAJtm1Y7wwYoaejrsKtYVFnydo6oRZEhCLurPh1K-bd9z6sPrAadFFGhRaN8rVFPshBQoJ343z6hhFvTstng",
+               "width" : 960
+            }
+         ],
+         "place_id" : "ChIJJaylKFXxNDERoQQAmaxKlQU",
+         "plus_code" : {
+            "compound_code" : "6GG3+88 Vĩnh Tường, Vinh Phuc Province, Vietnam",
+            "global_code" : "7PH76GG3+88"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJJaylKFXxNDERoQQAmaxKlQU",
+         "scope" : "GOOGLE",
+         "types" : [ "point_of_interest", "school", "establishment" ],
+         "user_ratings_total" : 19,
+         "vicinity" : "Khu Hồ Xuân Hương"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 21.1990284,
+               "lng" : 105.4379593
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.20032502989272,
+                  "lng" : 105.4394989798927
+               },
+               "southwest" : {
+                  "lat" : 21.19762537010728,
+                  "lng" : 105.4367993201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "49cd4cffb2ea8e1dc1559c3f243d13136a256db2",
+         "name" : "Chu Minh Junior High School",
+         "place_id" : "ChIJYTvxiPD0NDERp0exH1Gc9zE",
+         "plus_code" : {
+            "compound_code" : "5CXQ+J5 xóm Tiên, Ba Vì, Hanoi, Vietnam",
+            "global_code" : "7PH75CXQ+J5"
+         },
+         "rating" : 3.7,
+         "reference" : "ChIJYTvxiPD0NDERp0exH1Gc9zE",
+         "scope" : "GOOGLE",
+         "types" : [ "point_of_interest", "school", "establishment" ],
+         "user_ratings_total" : 7,
+         "vicinity" : "Xã Chu Minh, Huyện Ba Vì"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 21.2065593,
+               "lng" : 105.4567113
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.20799702989272,
+                  "lng" : 105.4580412798927
+               },
+               "southwest" : {
+                  "lat" : 21.20529737010728,
+                  "lng" : 105.4553416201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "10d25086fc88209ff6be46b213ee5aa3c963ae56",
+         "name" : "Minh Chau Elementary School",
+         "place_id" : "ChIJ8VeSRV70NDERGeU31yLREuE",
+         "plus_code" : {
+            "compound_code" : "6F44+JM Minh Châu, Ba Vì, Hanoi, Vietnam",
+            "global_code" : "7PH76F44+JM"
+         },
+         "rating" : 3.5,
+         "reference" : "ChIJ8VeSRV70NDERGeU31yLREuE",
+         "scope" : "GOOGLE",
+         "types" : [ "point_of_interest", "school", "establishment" ],
+         "user_ratings_total" : 2,
+         "vicinity" : "Minh Chau Commune, Ba Vi District"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 21.3076895,
+               "lng" : 105.5269218
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.30891937989272,
+                  "lng" : 105.5283394798927
+               },
+               "southwest" : {
+                  "lat" : 21.30621972010728,
+                  "lng" : 105.5256398201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "7bfbe00408cc0023e1b89ce297bde127e8f67fc3",
+         "name" : "Yen Binh Nursery School",
+         "place_id" : "ChIJAQAAAN3xNDERPm0B2m1AVD8",
+         "plus_code" : {
+            "compound_code" : "8G5G+3Q Yên Bình, Vĩnh Yên, Vinh Phuc Province, Vietnam",
+            "global_code" : "7PH78G5G+3Q"
+         },
+         "rating" : 5,
+         "reference" : "ChIJAQAAAN3xNDERPm0B2m1AVD8",
+         "scope" : "GOOGLE",
+         "types" : [ "point_of_interest", "school", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Yen Binh Commune, Vinh Tuong District"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 21.1078,
+               "lng" : 105.4382101
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.10906467989272,
+                  "lng" : 105.4395265298927
+               },
+               "southwest" : {
+                  "lat" : 21.10636502010727,
+                  "lng" : 105.4368268701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "755fc45923a0b3ee612a5bb5739e65cfed0c0655",
+         "name" : "Xuan Khanh Junior High School",
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104889579032881451537/photos\"\u003eMinh Anh Giang Thị\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAeCCYXtcbTJPyaKr6ylgP-NJW3Cwh1qnDZWO5TVmkWYWDyTnED-AIEZSfS5Q9X4E6e_GjaQFyCfLC-PzC3KfXm2mGiRjpIjUnoiwNdCBAywUCNmXauxoU5C6KomdfW9rGEhBZiF2FmPF7qZXYQs1qwFLEGhS3ZFLcFEjJ1iJnDyOwXgb8TcC04Q",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJfyZxGwpfNDERc9PRplEnai8",
+         "plus_code" : {
+            "compound_code" : "4C5Q+47 Sơn Tây, Hanoi, Vietnam",
+            "global_code" : "7PH74C5Q+47"
+         },
+         "rating" : 2.8,
+         "reference" : "ChIJfyZxGwpfNDERc9PRplEnai8",
+         "scope" : "GOOGLE",
+         "types" : [ "point_of_interest", "school", "establishment" ],
+         "user_ratings_total" : 4,
+         "vicinity" : "Xuan Khanh Ward, Son Tay Town"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 21.121164,
+               "lng" : 105.3650917
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.12254717989272,
+                  "lng" : 105.3664006298927
+               },
+               "southwest" : {
+                  "lat" : 21.11984752010728,
+                  "lng" : 105.3637009701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "7d1ebf05e3cea2d1646702474faec163568bb733",
+         "name" : "Ba Vi High School",
+         "photos" : [
+            {
+               "height" : 640,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111852446420471858902/photos\"\u003eĐạt Nguyễn Văn\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAanUcXdsOd_cKGPSuaqAfUsn11dzS5EOPzS7zoyJA80t86GK8n5XY-76CsscMnazxGvHY0YWpEtkfHPE-PkT6T9UEFwblkYuxa5yBgWfC4Vdn3CmQndz7I0bohDlIQGMREhB6_sntTNuCLmlkDQILS87-GhSYKkiyEe99h7mAF4-2dgbqefWW7Q",
+               "width" : 960
+            }
+         ],
+         "place_id" : "ChIJ9-SoucdhNDER6XdSdD0etX0",
+         "plus_code" : {
+            "compound_code" : "49C8+F2 Trung Thượng, Ba Vì, Hanoi, Vietnam",
+            "global_code" : "7PH749C8+F2"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJ9-SoucdhNDER6XdSdD0etX0",
+         "scope" : "GOOGLE",
+         "types" : [ "point_of_interest", "school", "establishment" ],
+         "user_ratings_total" : 11,
+         "vicinity" : "Ba Trai Commune, Ba Vi District"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 21.1568841,
+               "lng" : 105.4124181
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.15819157989272,
+                  "lng" : 105.4137970298927
+               },
+               "southwest" : {
+                  "lat" : 21.15549192010727,
+                  "lng" : 105.4110973701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "9b93cbd28ebcde95015617eb9d228f6b95a30881",
+         "name" : "Thuy An Nursery School",
+         "place_id" : "ChIJF1Zuzjf1NDERvF7n3Zg1NC0",
+         "plus_code" : {
+            "compound_code" : "5C46+QX Ang Gạo, Ba Vì, Hanoi, Vietnam",
+            "global_code" : "7PH75C46+QX"
+         },
+         "rating" : 3.8,
+         "reference" : "ChIJF1Zuzjf1NDERvF7n3Zg1NC0",
+         "scope" : "GOOGLE",
+         "types" : [ "point_of_interest", "school", "establishment" ],
+         "user_ratings_total" : 4,
+         "vicinity" : "Thụy An"
+      }
+   ],
+   "status" : "OK"
+}

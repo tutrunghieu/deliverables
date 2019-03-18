@@ -1,0 +1,28 @@
+{
+   "candidates" : [
+      {
+         "formatted_address" : "1 Raffles Quay, Singapore 018960",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.2810947,
+               "lng" : 103.8516568
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.282485579892722,
+                  "lng" : 103.8530348298927
+               },
+               "southwest" : {
+                  "lat" : 1.279785920107278,
+                  "lng" : 103.8503351701073
+               }
+            }
+         },
+         "id" : "a925509a8c08595d4cac065a20d84e5675cd37e3",
+         "name" : "1 Raffles Quay",
+         "place_id" : "ChIJZcU5cw4Z2jERnYIGWuJ8Rxs",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
